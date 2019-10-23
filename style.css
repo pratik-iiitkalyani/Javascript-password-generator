@@ -25,12 +25,22 @@ h2 {
 	text-align: center;
 }
 
-input[type=number] {
-	margin-left: 0;
+#length {
+	margin-left: 127px;
 }
 
-input[type=checkbox] {
-	margin-left: 0;
+#uppercase {
+	margin-left: 105px;
+}
+
+#lowercase {
+	margin-left: 107px;
+}
+#numbers {
+	margin-left: 168px;
+}
+#symbols {
+	margin-left: 172px;
 }
 
 .container {
