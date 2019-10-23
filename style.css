@@ -26,11 +26,11 @@ h2 {
 }
 
 input[type=number] {
-	margin-right: 0px;
+	margin-left: 124px;
 }
 
 input[type=checkbox] {
-	margin-right: 0px;
+	margin-left: 124px;
 }
 
 .container {
